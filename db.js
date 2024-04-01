@@ -5,9 +5,9 @@ var mysql = require('mysql');
 module.exports = {
     getData: function(sql, param, callback){
         var connection = mysql.createConnection({
-            host: '65.0.86.221',
+            host: '16.171.138.203',
             user: 'root',
-            password: 'Akbar@786',
+            password: 'root@123',
             database: 'pharmacy'
         });
 
