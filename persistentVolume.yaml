@@ -10,5 +10,5 @@ spec:
     - ReadWriteOnce
   storageClassName: pharmacyvolumemanual
   awsElasticBlockStore:
-    volumeID: vol-016422c4472f74fc7
+    volumeID: vol-0f8f40a91c81d0abb
     fsType: ext4
